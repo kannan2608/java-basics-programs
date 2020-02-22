@@ -6,7 +6,9 @@ public class SwappingThreeNum
 	public static void main(String[] args)
 	{
 		SwappingThreeNum obj2=new SwappingThreeNum();
+		obj2.three();
 	}
+	
 
 	public void three()
 	{
