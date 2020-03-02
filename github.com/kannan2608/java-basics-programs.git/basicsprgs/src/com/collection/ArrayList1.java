@@ -27,6 +27,8 @@ public class ArrayList1 {
     
      Payilagam.addAll(room2);
      System.out.println(Payilagam);
+   
+     
 		
 		
 		
