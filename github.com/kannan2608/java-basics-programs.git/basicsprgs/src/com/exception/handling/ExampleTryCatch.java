@@ -1,6 +1,6 @@
 package com.exception.handling;
 
-public class ExcepPrg
+public class ExampleTryCatch
 {
 
 	public static void main(String[] args)

@@ -1,6 +1,6 @@
 package com.loopsprgs.muthu;
 
-public class Example3 
+public class Example3 // 1 2 4 7 11
 {
 
 	public static void main(String[] args) 

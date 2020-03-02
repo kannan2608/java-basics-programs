@@ -1,6 +1,6 @@
 package com.loopsprgs.muthu;
 
-public class FibonisSerier {
+public class FibonisSerier { // 0+1+2+3+4+5+6+7+8+9
 
 	public static void main(String[] args) {
 		int first=0,second=1;
