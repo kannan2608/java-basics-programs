@@ -1,6 +1,6 @@
 package com.patternprg;
 
-public class Exm4 {
+public class Print321 {
 
 	public static void main(String[] args) {
 		for(int row=1; row<=3; row++)

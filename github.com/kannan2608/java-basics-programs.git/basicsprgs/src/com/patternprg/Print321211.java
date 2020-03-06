@@ -1,6 +1,6 @@
 package com.patternprg;
 
-public class Exm2 {
+public class Print321211 {
 
 	public static void main(String[] args) {
 		

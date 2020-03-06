@@ -112,7 +112,7 @@ public class Example1 {
 		*/
 		
 		String s="kdjggljsdfljg";
-		s.concat("hi");
+		s=s.concat("hi");
 		System.out.println(s);
 		
 		

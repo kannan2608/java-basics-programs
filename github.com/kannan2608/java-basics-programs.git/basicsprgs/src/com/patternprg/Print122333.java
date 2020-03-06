@@ -1,6 +1,6 @@
 package com.patternprg;
 
-public class Exm1{
+public class Print122333{
 
 	public static void main(String[] args) {
 	for(int no11=1; no11<=3; no11++)

@@ -1,6 +1,6 @@
  package com.patternprg;
 
-public class Exm3 {
+public class Print3Stat3rows {
 
 	public static void main(String[] args) {
           int row =1;
