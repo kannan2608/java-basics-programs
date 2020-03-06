@@ -33,7 +33,6 @@ public class ArgumentExample1 {
 		System.out.println(res5);
 		System.out.println(Frds);
 		
-		void res8= Frds.clear("kannan");
 		
 	
 	

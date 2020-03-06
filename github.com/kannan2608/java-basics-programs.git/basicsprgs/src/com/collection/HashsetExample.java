@@ -43,6 +43,7 @@ public class HashsetExample {
            
           set.clear();
            System.out.println(set);
+           set.g
            
            
            
