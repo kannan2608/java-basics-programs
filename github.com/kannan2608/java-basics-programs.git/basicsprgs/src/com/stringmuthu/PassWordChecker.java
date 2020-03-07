@@ -28,7 +28,7 @@ public class PassWordChecker {
 					splcharcount++;
 				}
 		}
-		if((nocount==0)&&(capcount==0))
+		if((nocount==0)||(capcount==0)||(splcharcount==0))
 		{
 			System.out.println("not valid pwd");
 		}
