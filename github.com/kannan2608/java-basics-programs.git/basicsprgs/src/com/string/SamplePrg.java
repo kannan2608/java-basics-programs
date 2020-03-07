@@ -12,7 +12,7 @@ public class SamplePrg
 	{
        String java="In Java, string is basically an object that represents sequence of char values.";
  
-     /*  int res1=java.charAt(4); //charAt() method returns a char value at the given index number.
+     int res1=java.charAt(4); //charAt() method returns a char value at the given index number.
        System.out.println(res1);
         
        int res2=java.codePointAt(5);  //
@@ -24,7 +24,7 @@ public class SamplePrg
        
         String res3=a.concat(b).concat(c);
         System.out.println(res3);
-        
+       
         int res4=java.indexOf('s');
         System.out.println(res4);
         
@@ -46,6 +46,7 @@ public class SamplePrg
         boolean res10=java.endsWith("j");
         System.out.println(res10);
         
+       
         String res11=java.substring(5,15);
         System.out.println(res11);
         
@@ -57,7 +58,7 @@ public class SamplePrg
        
        String res14=java.trim();
        System.out.println(res14);
-   */     
+       
        
        
        
