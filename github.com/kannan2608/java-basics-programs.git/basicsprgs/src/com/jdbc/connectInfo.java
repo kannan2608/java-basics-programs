@@ -4,7 +4,7 @@
 package com.jdbc;
 
 public interface connectInfo
-{
+{ 
 
 	String USERNAME="root";
 	String PASSWORD="admin";
