@@ -31,8 +31,8 @@ public class SamplePrg
         String res5=java.intern();
         System.out.println(res5);
         
-        int res6= java.lastIndexOf('b');  
-        System.out.println(res6);
+       // int res6= java.lastIndexOf('b');  
+        System.out.println(java.lastIndexOf('b'));
         
         int res7= java.length();
         System.out.println(res7);

@@ -3,7 +3,7 @@ package com.loopsprgs.muthu;
 public class PrimeNo {
 
 	public static void main(String[] args) {
-		int no = 99, div = 3;
+		int no = 17, div = 3;
 		boolean check = true;
 		if (no % 2 != 0) {
 			while (div < no) {
@@ -17,7 +17,7 @@ public class PrimeNo {
 			}
 			if (check == true) {
 				System.out.println("is a prime no");
-			} else {
+			} if(no%2==0){
 				System.out.println("not a prime");
 			}
 		}
