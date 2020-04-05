@@ -3,13 +3,14 @@ package com.fingertipPrg;
 public class Example1 {
 
 	public static void main(String[] args) {
-	for(int row=1; row<=3; row++)
-	{
-		for(int col=1; col<=3; col++)
+		int no=5;
+		int fact=no;
+		while(no>1)
 		{
-			System.out.print(col);
+			no--;
+			fact=fact*no;
+			
 		}
-		System.out.println();
+		System.out.println(fact);
 	}
-		}
 }

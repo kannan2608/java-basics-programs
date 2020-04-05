@@ -6,7 +6,7 @@ public class Factorial {  //1*2*3*4*5
 		int fact = 1, no = 1;
 		while (no <= 5) {
 			fact = fact * no;
-			no = no + 1;
+			no++;
 
 		}
 		System.out.println("the factorial is =" + fact);

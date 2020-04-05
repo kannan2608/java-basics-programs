@@ -10,8 +10,7 @@ public class PalindromPrg {
 	{
 		int rem=no%10;
 		rev=(rev*10)+rem;
-		no=no/10;
-	}
+ 	}
 	System.out.println(rev);
 	if(no1==rev)
 		System.out.println("is a palindrom");

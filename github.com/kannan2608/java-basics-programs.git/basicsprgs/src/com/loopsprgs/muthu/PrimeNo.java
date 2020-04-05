@@ -1,6 +1,6 @@
 package com.loopsprgs.muthu;
 
-public class PrimeNo {
+public class PrimeNo{
 
 	public static void main(String[] args) {
 		int no = 17, div = 3;
