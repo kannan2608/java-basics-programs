@@ -13,7 +13,7 @@ public class PrimeNo1to100 {
 				}
 			}
 			if (temp == 0) {
-			
+
 				System.out.println(no);
 
 			}
