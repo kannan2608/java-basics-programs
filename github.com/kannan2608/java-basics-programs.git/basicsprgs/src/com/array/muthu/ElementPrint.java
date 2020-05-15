@@ -10,7 +10,7 @@ public class ElementPrint {
 			{
 				System.out.println("45 is present at"+ i);
 				break;
-			}
+		}
 		
 		}for(int i=0; i<kannan.length; i++)
 		{

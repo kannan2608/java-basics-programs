@@ -12,7 +12,7 @@ public class IndexEvenNum
 			  if(i%2==0)
 			  {
 				  System.out.println(joy[i]);
-			  }
+		  }
 		  }
 	} 
 }

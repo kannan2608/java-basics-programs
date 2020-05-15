@@ -1,4 +1,4 @@
-package com.stringmine;
+package com.stringdeepak;
 
 public class Example1 {
 

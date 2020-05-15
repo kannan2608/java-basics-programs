@@ -12,7 +12,7 @@ public class OddNum  //element using odd numbers
 			  if(joy[i]%2==1)
 			  {
 				  System.out.println(joy[i]);
-			  }
+		  }
 		  }
 	}
 

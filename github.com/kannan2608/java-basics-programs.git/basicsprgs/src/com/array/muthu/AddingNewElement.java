@@ -10,7 +10,7 @@ public class AddingNewElement {
 		int len2 = arr2.length;
 		arr2[len2 - 1] = no;
 		for (int i = 0; i < arr1.length; i++) {
-			arr2[i] = arr1[i];
+		arr2[i] = arr1[i];
 			// System.out.println(arr1[i]);
 		}
 		for (int i = 0; i < arr2.length; i++) {

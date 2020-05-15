@@ -15,7 +15,7 @@ public class ArgumentExample1 {
 		Frds.add("jack");
 		System.out.println(Frds);
 
-		for (Object res : Frds) {
+	for (Object res : Frds) {
 			if (res.equals("Babu"))
 				System.out.println(res);
 		}
