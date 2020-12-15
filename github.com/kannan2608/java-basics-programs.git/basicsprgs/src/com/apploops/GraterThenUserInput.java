@@ -8,6 +8,7 @@ public class GraterThenUserInput  // if condtion
 	{
 	   Scanner obj=new Scanner(System.in);
 	   int a=55;
+	   int b=55;
 	   System.out.println("enter any number");
 	   a=obj.nextInt();
 	   if(a>55)
